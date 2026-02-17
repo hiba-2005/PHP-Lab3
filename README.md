@@ -10,7 +10,7 @@ Ce laboratoire permet de :
 - Tester le projet en CLI
 
 ## Structure du projet
-
+`````
 project/
 │
 ├── public/
@@ -29,6 +29,7 @@ project/
     │
     └── Service/
         └── PrinterService.php
+`````
 
 ## Concepts utilisés
 - Classe abstraite : Personne
